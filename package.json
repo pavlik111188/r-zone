@@ -1,0 +1,20 @@
+{
+  "name": "rZone",
+  "version": "0.0.1",
+  "description": "rZone api",
+  "dependencies": {
+    "bcrypt": "*",
+    "bluebird": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "crypto": "*",
+    "express": "*",
+    "jwt-simple": "*",
+    "moment": "^2.18.1",
+    "mongoose": "*",
+    "morgan": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Pavel S."
+}
